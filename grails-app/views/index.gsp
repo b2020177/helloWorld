@@ -9,5 +9,7 @@
 	</head>
 	<body>
 	  <h1> Hello World </h1>
+	<g:link controller="sayHello"> say hello!</g:link> 
+	
 	</body>
 </html>
